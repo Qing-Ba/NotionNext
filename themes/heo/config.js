@@ -60,7 +60,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: '/images/heo/Aftereffect.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
@@ -68,10 +68,10 @@ const CONFIG = {
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      img_1: '/images/heo/Docker.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      img_2: '/images/heo/Photoshop.webp',
       color_2: '#4082c3'
     },
     {
@@ -79,7 +79,7 @@ const CONFIG = {
       img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      img_2: '/images/heo/Python.webp',
       color_2: '#ffffff'
     },
     {
@@ -91,27 +91,27 @@ const CONFIG = {
       color_2: '#8f55ba'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
+      title_1: 'ChatGPT',
+      img_1: '/images/heo/ChatGPT.webp',
+      color_1: '#10a37f',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      img_2: '/images/heo/CSS3.webp',
       color_2: '#2c51db'
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      img_1: '/images/heo/JS.webp',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      img_2: '/images/heo/HTML.webp',
       color_2: '#e9572b'
     },
     {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'Unreal',
+      img_2: '/images/heo/Unrealengine.webp',
       color_2: '#1f1f1f'
     }
   ],
