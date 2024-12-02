@@ -7,7 +7,7 @@ const Logo = props => {
   const { siteInfo } = props
   return (
     <Link href='/' passHref legacyBehavior>
-      <div className='flex flex-nowrap items-center cursor-pointer font-extrabold min-w-[50rem]'>
+      <div className='flex flex-nowrap items-center cursor-pointer font-extrabold min-w-[10rem]'>
         <LazyImage
           src={siteInfo?.icon}
           width={24}
