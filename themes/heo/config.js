@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '试试手气',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '实用软件', url: '/tag/实用软件' },
-  HEO_HERO_CATEGORY_2: { title: '热门攻略', url: '/tag/热门攻略' },
-  HEO_HERO_CATEGORY_3: { title: '虚幻引擎', url: '/tag/虚幻引擎' },
+  HEO_HERO_CATEGORY_1: { title: '实用软件', url: '/tag/软件' },
+  HEO_HERO_CATEGORY_2: { title: '热门事件', url: '/tag/事件' },
+  HEO_HERO_CATEGORY_3: { title: '虚幻引擎', url: '/tag/虚幻' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
